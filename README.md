@@ -1,6 +1,6 @@
 # module-01-challenge
 ## Overview
-In the module-01-challenge, a marketing-agency wants me to refactor its code to make-sure it follows accessibility-standards and is opitimized for search-engines.
+In the module-01-challenge, a marketing-agency wants me to refactor the code on its website to make-sure it follows accessibility-standards and is opitimized for search-engines.
 
 My tasks include incorporating semantic-elements in index.html, logically-restucturing the elements in index.html independent of its styling and positioning, add alternate-text to the images in index.html and style.css, ensure the headings are written in sequential-order, and to write a title that represents the webpage.
 
